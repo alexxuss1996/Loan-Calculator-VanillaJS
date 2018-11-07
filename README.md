@@ -1,0 +1,1 @@
+<em>Simple calculator with bootstrap and <b>VanillaJS</b></em>
